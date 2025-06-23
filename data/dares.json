@@ -1,0 +1,23 @@
+[
+  { "id": 1, "text": "Compliment a stranger.", "mood": "Kind" },
+  { "id": 2, "text": "Dance to a random song in public.", "mood": "Excited" },
+  { "id": 3, "text": "Talk in rhyme for 30 sec.", "mood": "Creative" },
+  { "id": 4, "text": "Act like your favorite animal.", "mood": "Silly" },
+  { "id": 5, "text": "Record a calm moment.", "mood": "Calm" },
+  { "id": 6, "text": "Whisper a secret into your phone like it's your best friend.", "mood": "Curious" },
+  { "id": 7, "text": "Say something deep while looking at the sky.", "mood": "Reflective" },
+  { "id": 8, "text": "Make a 10-second motivational speech to your future self.", "mood": "Motivating" },
+  { "id": 9, "text": "Imitate a movie villain and act out a scene.", "mood": "Bold" },
+  { "id": 10, "text": "Post a 'bad hair day' selfie with confidence.", "mood": "Brave" },
+  { "id": 11, "text": "Draw a doodle of your mood and show it to the camera.", "mood": "Artistic" },
+  { "id": 12, "text": "Create a new dance move and name it after yourself.", "mood": "Hype" },
+  { "id": 13, "text": "List 3 things you're grateful for — out loud.", "mood": "Grateful" },
+  { "id": 14, "text": "Do a slow-motion walk like you're in a movie.", "mood": "Dramatic" },
+  { "id": 15, "text": "Roast yourself in 10 seconds. No holding back!", "mood": "Funny" },
+  { "id": 16, "text": "Tell a joke to your camera like you're a stand-up comic.", "mood": "Playful" },
+  { "id": 17, "text": "Record a 'fail moment' story you’ve never shared before.", "mood": "Vulnerable" },
+  { "id": 18, "text": "Sit in silence for 30 seconds — no scrolling, no talking.", "mood": "Zen" },
+  { "id": 19, "text": "Give a random shout-out to someone you admire.", "mood": "Loyal" },
+  { "id": 20, "text": "Rap about your day in under 20 seconds.", "mood": "Expressive" }
+]
+
